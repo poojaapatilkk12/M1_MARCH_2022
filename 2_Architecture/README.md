@@ -16,7 +16,7 @@ Use case diagram for the proposed system is shown below.
 
 State machine diagram for the proposed system is shown below.
 
-![State](https://github.com/AdityaGautam05/LTTS-C-MiniProject/blob/main/images/State_machine_diagram.png)
+![State](https://github.com/poojaapatilkk12/M1_MARCH_2022/blob/main/2_Architecture/State_machine_diagram.png)
 
 ## UML Diagram
 

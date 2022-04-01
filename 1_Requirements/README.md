@@ -24,7 +24,8 @@
 
 ## SWOT ANALYSIS
 
-![SWOT Analysis](https://github.com/AdityaGautam05/LTTS-C-MiniProject/blob/main/images/swot.png)
+(https://user-images.githubusercontent.com/101578063/161286726-919967bd-dd5b-4e7e-a718-231ba2723a9e.png)
+
 
 # 3W&#39;s and 1&#39;H
 

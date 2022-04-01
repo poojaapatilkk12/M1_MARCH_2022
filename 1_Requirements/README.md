@@ -66,22 +66,20 @@
 | ---- | -------------------------------------------------------- | --------- | ----------- |
 | HR01 | User shall be able to create account.                    | Techincal | IMPLEMENTED |
 | HR02 | User shall be able to update existing account            | Techincal | IMPLEMENTED |
-| HR04 | User shall be able to check details of existing record   | Techincal | IMPLEMENTED |
-| HR05 | User shall be able to remove existing student record    | Techincal | IMPLEMENTED |
-| HR06 | User shall be able to view customer list                | Technical | IMPLEMENTED |
-| HR07 | USER shall be able to exit                              | Technical | IMPLEMENTED |      |
+| HR03 | User shall be able to check details of existing record   | Techincal | IMPLEMENTED |
+| HR04 | User shall be able to remove existing student record    | Techincal | IMPLEMENTED |
+| HR05 | User shall be able to view customer list                | Technical | IMPLEMENTED |
+| HR06 | USER shall be able to exit                              | Technical | IMPLEMENTED |      |
 
 ## Low level Requirements:
 
 | ID   | Description                                                                                                                                                                    | HLR ID | Status (Implemented/Future) |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | --------------------------- |
-| LR01 | (1). New student shall be added by providing all the asked information (2). Id should be unique and validated from persistant file or else new account should not be accepted. | HR03   | IMPLEMENTED                 |
-| LR02 | Must be able to login as User.                                                                                                                                                 | HR01   | IMPLEMENTED                 |
-| LR03 | Must be able to login as Admin                                                                                                                                                 | HR02   | FUTURE                      |
-| LR04 | If user tries to create an existing account then the system doesn't allow                                                                                                      | HR03   | IMPLEMENTED                 |
-| LR05 | User can only update an existing account                                                                                                                                       | HR04   | IMPLEMENTED                 |
-| LR06 | User needs to enter account number to perform transation, and if the account doesn't exist then it shows 'No record found'                                                     | HR05   | IMPLEMENTED                 |
-| LR05 | User shall be able to check details of only existing account using account_number/name, if it doesn't exist then it shows 'No record found'                                    | HR06   | IMPLEMENTED                 |
-| LR06 | Admin shall bew able to remove existing account on basis of account number, else 'Record not found'                                                                            | HR07   | IMPLEMENTED                 |
-| LR07 | Admin shall be able to view all customer list in tabular format                                                                                                                | HR08   | IMPLEMENTED                 |
+| LR01 | (1). New student shall be added by providing all the asked information (2). Id should be unique and validated from persistant file or else new account should not be accepted. | HR03   | IMPLEMENTED                 |                                                                                       
+| LR02 | If user tries to create an existing account then the system doesn't allow                                                                                                      | HR03   | IMPLEMENTED                 |
+| LR03 | User can only update an existing account                                                                                                                                       | HR04   | IMPLEMENTED                 |
+| LR04 | User needs to enter name to perform , and if the account doesn't exist then it shows 'No record found'                                                     | HR05   | IMPLEMENTED                 |
+| LR05 | User shall be able to check details of only existing record/name, if it doesn't exist then it shows 'No record found'                                    | HR06   | IMPLEMENTED                 |
+| LR06 | User shall bew able to remove existing record on basis of account number, else 'Record not found'                                                                            | HR07   | IMPLEMENTED                 |
+| LR07 | User shall be able to view all student list in tabular format                                                                                                                | HR08   | IMPLEMENTED                 |
 

@@ -66,11 +66,10 @@
 | ---- | -------------------------------------------------------- | --------- | ----------- |
 | HR01 | User shall be able to create account.                    | Techincal | IMPLEMENTED |
 | HR02 | User shall be able to update existing account            | Techincal | IMPLEMENTED |
-| HR03 | User shall be able to perform transactions               | Techincal | IMPLEMENTED |
-| HR04 | User shall be able to check details of existing account  | Techincal | IMPLEMENTED |
-| HR05 | Admin shall be able to remove existing account           | Techincal | IMPLEMENTED |
-| HR06 | Admin shall be able to view customer list                | Technical | IMPLEMENTED |
-| HR07 | Admin shall be able to exit                              | Technical | FUTURE      |
+| HR04 | User shall be able to check details of existing record   | Techincal | IMPLEMENTED |
+| HR05 | User shall be able to remove existing student record    | Techincal | IMPLEMENTED |
+| HR06 | User shall be able to view customer list                | Technical | IMPLEMENTED |
+| HR07 | USER shall be able to exit                              | Technical | IMPLEMENTED |      |
 
 ## Low level Requirements:
 

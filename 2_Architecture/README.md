@@ -4,7 +4,7 @@
 
 Activity diagram for the proposed system is shown below.
 
-![Activity](https://github.com/AdityaGautam05/LTTS-C-MiniProject/blob/main/images/Activity_diagram.png)
+![Activity](https://github.com/poojaapatilkk12/M1_MARCH_2022/blob/main/images/activity.png)
 
 ## Use case diagram
 

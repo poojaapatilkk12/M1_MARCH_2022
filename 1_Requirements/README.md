@@ -21,6 +21,7 @@
 - It helps to record daily attendance automatically using a biometric attendance system Easy to Use
 - The system is easy to use and highly intuitive by all types of individuals
 
+
 ## SWOT ANALYSIS
 
 ![SWOT Analysis](https://github.com/AdityaGautam05/LTTS-C-MiniProject/blob/main/images/swot.png)

@@ -24,10 +24,23 @@
 
 ## SWOT ANALYSIS
 
-(https://user-images.githubusercontent.com/101578063/161286726-919967bd-dd5b-4e7e-a718-231ba2723a9e.png)
+**STRENGTHS** 
+- The system can provide data in sufficient time and in appropriate structure according to management requirements.
+- It is suitable for preparing immediate reports from source systems with daily data loading.
 
+**WEAKNESSES**
+- Data purity of source systems is dubious; the number of administrators of source systems is particularly high.
+- Support of the system depends to a large extent on the vocation of the management.
 
-# 3W&#39;s and 1&#39;H
+**OPPORTUNITIES **
+- Scalable source systems enable the creation of complex queries building on several source systems.
+- Interconnection of information from different processes and topics is provided due to integrated operation, it can support management decisions by creating   multidimensional data models.
+
+**THREATS**
+- Public sector leaders are still less motivated in daily usage of MIS.
+- Data loading from source systems are done manually and infrequently in certain cases and it has a negative impact on the availability of MIS reports.
+
+# 3W&#39;s and 1&#39;
 
 ## Who:
 

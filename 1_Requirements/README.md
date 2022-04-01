@@ -2,12 +2,12 @@
 
 ## Introduction
 
--   Recording data in any institution or place of work is typical, and more important for institution like Banks, where records and transaction is what drives the whole.
--   This topic was chosen as it allows me to implement data structures, and further helps me to get a deeper understanding of a structured programming language like C.
+-   Student records are often viewed as paperwork produced for the education bureaucracy.
+-   The most important of these is the ability to report information for decision making about individual students, schools, programs, and school districts.
 
 ## Objective of the system
 
--   The main objective of the banking system is to provide a tool to efficiently record all data necessary, and also sort it.
+-   The main objective of the student record system is to provide a tool to efficiently record all data necessary, and also sort it.
 -   The people using it only have to choose what they have to do, and enter the data,everything else is taken care of by the program.
 
 ## Features proposed in the current system

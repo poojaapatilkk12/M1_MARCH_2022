@@ -2,54 +2,24 @@
 
 ## Introduction
 
--   Student records are often viewed as paperwork produced for the education bureaucracy.
--   The most important of these is the ability to report information for decision making about individual students, schools, programs, and school districts.
-
+-   A student record management software is a tool that tracks and records regular activities of the students in institutes including attendance, exam performance, and their behavior.
+-   The software can be accessed by students, teachers, admin and parents with a role-based login. It collects all the student data along with their personal information which can be easily searched and retrieved later on. The software stores years of data online on a cloud platform.
 ## Objective of the system
 
--   The main objective of the student record system is to provide a tool to efficiently record all data necessary, and also sort it.
+-   The main objective of the student record management system is to provide a tool to efficiently record all data necessary, and also sort it.
 -   The people using it only have to choose what they have to do, and enter the data,everything else is taken care of by the program.
 
 ## Features proposed in the current system
 
--   Two modes of logins provided namely admin and user.The 2 modes have different functionalities, elaborated below.
-
-    -   User requires empty password
-    -   Admin requires password 'admin' to login.
-
--   User mode consists of options:
-    -   Create new Account, which requires the data
-        -   Date of creation.
-        -   Account number.
-        -   Name of the Account holder.
-        -   Date of birth.
-        -   Age.
-        -   Address.
-        -   Citizenship number.
-        -   Phone number.
-        -   Amount to be deposited.
-        -   Type of account:
-            -   Savings
-            -   Current
-            -   Fixed1 (for 1 year)
-            -   Fixed2 (for 2 years)
-            -   Fixed3 (for 3 years)
-    -   Update information of existing account. Which gives the choice of changing
-        -   Address
-        -   Phone
-    -   For transations (Requires Account number). Gives you 2 choices:
-        -   Deposit
-        -   Withdraw
-    -   Check details of existing account. Further gives you the choice to search using:
-        -   Account number or,
-        -   Name
-    -   Exit
--   Admin mode has options:
-    -   Removing existing account
-        -   Requires the account number to be removed.
-    -   View Customer's list
-        -   Shows account number, name, address and phone number of all the accounts in a tabular format.
-    -   Exit
+- Easy Report Generation
+- The software helps to generate reports easily in required formats Data Search and Retrieval
+- The system can help users to find and retrieve student’s data over a few clicks High Data Storage
+- The system stores large amounts of data without hampering its functioning Role-Based Access
+- The software offers role
+- based access to the teachers, students, and parents Attendance Management
+- Attendance Management
+- It helps to record daily attendance automatically using a biometric attendance system Easy to Use
+- The system is easy to use and highly intuitive by all types of individuals
 
 ## SWOT ANALYSIS
 

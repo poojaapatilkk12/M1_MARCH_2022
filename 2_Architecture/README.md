@@ -22,5 +22,5 @@ State machine diagram for the proposed system is shown below.
 
 UML diagram for the proposed system is shown below.
 
-![UML Diagram](https://github.com/AdityaGautam05/LTTS-C-MiniProject/blob/main/images/C%20Bank%20UML.png)
+![UML Diagram](https://github.com/poojaapatilkk12/M1_MARCH_2022/blob/main/2_Architecture/Student%20%20UML.png)
 

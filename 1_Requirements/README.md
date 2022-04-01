@@ -32,7 +32,7 @@
 - Data purity of source systems is dubious; the number of administrators of source systems is particularly high.
 - Support of the system depends to a large extent on the vocation of the management.
 
-**OPPORTUNITIES **
+**OPPORTUNITIES**
 - Scalable source systems enable the creation of complex queries building on several source systems.
 - Interconnection of information from different processes and topics is provided due to integrated operation, it can support management decisions by creating   multidimensional data models.
 

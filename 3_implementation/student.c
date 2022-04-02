@@ -3,6 +3,7 @@
 #include<stdlib.h>
 #include<windows.h>
 #include<string.h>
+//#include"test.h"
 void gotoxy(int ,int );
 void menu();
 void add();

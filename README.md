@@ -12,6 +12,6 @@
 ![](https://github.com/poojaapatilkk12/M1_MARCH_2022/blob/main/images/Student%20readme.png)
 
 ## CODE QUALITY##
-![](https://api.codiga.io/project/32550/score/svg)
-![](https://api.codiga.io/project/32550/status/svg)
+![code quality score](https://api.codiga.io/project/32550/score/svg)
+![quality grade](https://api.codiga.io/project/32550/status/svg)
 
